@@ -1,0 +1,19 @@
+.DS_Store
+
+# Xcode
+xcuserdata
+
+# AppCode
+.idea
+
+# Makefile Build Artifacts
+*.xcarchive
+*.testreports
+*.stringreport
+*.output.txt
+*.ipa
+xcov_report
+todo-blockers.txt
+
+# Python
+*.pyc
